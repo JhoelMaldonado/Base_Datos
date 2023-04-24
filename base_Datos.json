@@ -1,0 +1,10 @@
+{
+   "bencinas": [
+    {
+        "id" : "01",
+        "nombre": "combustible 93",
+        "precio" : 1190,
+        "stock" : 20
+    }
+   ]
+}
